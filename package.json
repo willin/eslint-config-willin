@@ -1,11 +1,8 @@
 {
   "name": "eslint-config-willin",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "基于AirBnb Javascript修改的ESLint配置",
   "main": "index.js",
-  "scripts": {
-    "postinstall": "v0"
-  },
   "repository": "git@github.com:willin/eslint-config-willin.git",
   "author": "willin <willin@willin.org>",
   "license": "MIT",
