@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-willin",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "基于AirBnb Javascript修改的ESLint配置",
   "main": "index.js",
   "repository": "git@github.com:willin/eslint-config-willin.git",
@@ -12,8 +12,7 @@
   },
   "dependencies": {
     "eslint-config-airbnb-base": "*",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-import": "*",
-    "v0": "*"
+    "eslint-config-prettier": "*",
+    "eslint-plugin-import": "*"
   }
 }
